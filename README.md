@@ -10,6 +10,10 @@ plastic waste or plastics or just garbage.
 To create a Garbage detection system which will detect objects based on whether it is
 plastic waste or plastics or just garbage.
 
+## Screenshots
+
+![App Screenshot](https://github.com/danypetkar/Garbage/blob/main/IMG_20220125_115121.jpg)
+
 ### Objectives
 
 • The main objective of the project is to create a program which can be either run on
@@ -283,9 +287,6 @@ source '0' for webcam
 !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 
 ```
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Advantages
